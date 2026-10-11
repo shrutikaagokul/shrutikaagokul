@@ -24,6 +24,28 @@ practical applications, while also building and deploying full-stack web experie
 
 ### AI & Machine Learning
 
+**Vigil-X**  
+*Healthcare Fraud Intelligence Platform*
+
+Healthcare fraud intelligence platform integrating ML-based risk scoring, rule-based detection, temporal and geographic intelligence, network analysis, and GenAI-powered investigation briefs.
+
+`Python` `FastAPI` `Machine Learning` `Network Analysis` `GenAI`
+
+[Repository](https://github.com/shrutikaagokul/vigil-x)
+
+---
+
+**VIGIL**  
+*Fraud Detection Engine & Reviewer Console*
+
+Rule-based fraud detection with an interactive reviewer console, featuring transaction velocity checks, unusual spending patterns, geographic anomaly detection, and duplicate claim detection, with explainable risk scoring.
+
+`Python` `Fraud Detection` `Risk Scoring` `React`
+
+[Repository](https://github.com/shrutikaagokul/vigil)
+
+---
+
 **FarmFlow AI**  
 *Multi-Agent Precision Agriculture System*
 
