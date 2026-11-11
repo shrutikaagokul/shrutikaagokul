@@ -46,7 +46,7 @@ Rule-based fraud detection with an interactive reviewer console, featuring trans
 
 ---
 
-**RESQ-X**
+**RESQ-X**                                   
 *AI-Powered Emergency Response & Urban Simulation Platform*
 
 An intelligent emergency-response simulation platform featuring a 3D interactive city, AI-driven decision-making, dynamic emergency scenarios, and real-time response simulation. Designed to explore optimized resource allocation and coordinated emergency management.
